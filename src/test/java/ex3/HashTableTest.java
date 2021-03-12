@@ -7,6 +7,7 @@ class HashTableTest {
 
     @org.junit.jupiter.api.Test
     void count() {
+        //probar count
         HashTable hashTable = new HashTable();
         hashTable.put("12345","David");
         hashTable.put("89742","Ferrero");
